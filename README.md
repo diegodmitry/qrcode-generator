@@ -169,9 +169,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-[Your Name] - [Your Email]
+[Diego Dmitry] - [diegodmitry@hotmail.com]
 
-Project Link: [your-repo-url]
+Project Link: [https://github.com/diegodmitry/qrcode-generator]
 
 ## Roadmap
 

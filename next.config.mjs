@@ -5,6 +5,9 @@ const nextConfig = {
   images: {
     remotePatterns: [],
   },
+  output: 'export',
+  basePath: '/qrcode-generator',
+  assetPrefix: '/qrcode-generator/',
 };
 
 export default nextConfig; 
